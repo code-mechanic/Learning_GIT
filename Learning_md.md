@@ -62,12 +62,23 @@ Quote break.
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
 
 # LESSON : 5
-1. First point in the lesson 5
-2. Second point in the lesson 5
-3. Third point in the lesson 5
-* Fourth point in the lesson 5
-* Fifth point
-* Sixth point
+Sometimes you want numbered lists:
+
+1. One
+2. Two
+3. Three
+
+Sometimes you want bullet points:
+
+* Start a line with a star
+* Profit!
+
+Alternatively,
+
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
 
 # LESSON : 6
 1.This is in line style ----> [Name of the link](https://github.com/code-mechanic/Objects-in-C).
@@ -88,3 +99,45 @@ Adding Image
 2.This is reference style 1 ----> ![Name of the link using reference][picture]
 
 [picture]: https://github.com/code-mechanic/Embedded_OOPs/blob/master/Snake.X/pic1.jpg
+
+# LESSON : 8
+Horizontal lines  
+
+---
+
+Using Hyphens
+
+***
+
+Using Asterisks
+
+___
+
+Using Underscores
+
+# LESSON : 9
+|Topic 1 | topic 2 |
+|---     |---      |
+|A       |B        |
+|C       |D        |
+
+# LESSON : 10   
+if you want to break a line then press spacebar 3 time...   
+NOTE : That 3 dot `...` indicates the space...   
+Here's a line for us to start with.
+
+This line is separated from the one above by two newlines, so it will be a *separate paragraph*.
+
+This line is also a separate paragraph, but...   
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*.
+
+# LESSON : 11
+- [x] task 1
+- [ ] task 2
+- [x] task 3
+- [x] task 4   
+- [ ] task 5
+- [x] task 6 
+
+# For more info
+[Some missed concepts](https://www.markdownguide.org/basic-syntax/)
