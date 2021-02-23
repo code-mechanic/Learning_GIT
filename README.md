@@ -1,2 +1,2 @@
 # Learning_GIT
-my training center for learning GIT 
+my training center for `learning GIT` 
