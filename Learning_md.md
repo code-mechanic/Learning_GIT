@@ -139,5 +139,15 @@ This line is only separated by a single newline, so it's a separate line in the 
 - [ ] task 5
 - [x] task 6 
 
+# LESSON : 12
+<details>
+<summary>To make sure markdown is rendered correctly in the collapsed section...</summary>
+
+ 1. Put an **empty line** after the `<summary>` block.
+ 2. *Insert your markdown syntax*
+ 3. Put an **empty line** before the `</details>` tag
+ 
+</details>
+ 
 # For more info
 [Some missed concepts](https://www.markdownguide.org/basic-syntax/)
