@@ -116,6 +116,19 @@ ___
 Using Underscores
 
 # LESSON : 9
+### Alignment Syntax
+
+| Right aligned | ---: |
+| --- | --- |
+| Centre aligned | :---: |
+| Left aligned | :--- |
+
+| Right aligned | Centre aligned | Left aligned |
+|------:|:-----:|:-----|
+| 1 | 2 | 3 |
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
+
 |Topic 1 | topic 2 |
 |---     |---      |
 |A       |B        |
